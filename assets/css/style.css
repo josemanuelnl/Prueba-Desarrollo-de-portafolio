@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;500&display=swap');
+
+:root{
+    --bs-body-font-family: 'Roboto', sans-serif;
+    --bs-body-font-weight: 300;
+
+}
+
+#Main-index {
+    background-image: url("../img/bg-index.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: left;
+  }
+
+#Main-portafolio {
+    background-image: url("../img/bg-portafolio.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: left;
+}
